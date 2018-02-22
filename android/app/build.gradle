@@ -98,7 +98,7 @@ android {
     buildToolsVersion "23.0.1"
 
     defaultConfig {
-        applicationId "com.hapulico_app"
+        applicationId "com.InnoRM_Fee"
         minSdkVersion 16
         targetSdkVersion 22
         versionCode 3

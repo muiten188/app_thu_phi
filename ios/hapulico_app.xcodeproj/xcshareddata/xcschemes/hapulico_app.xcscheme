@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "hapulico_app.app"
-               BlueprintName = "hapulico_app"
-               ReferencedContainer = "container:hapulico_app.xcodeproj">
+               BuildableName = "InnoRM_Fee.app"
+               BlueprintName = "InnoRM_Fee"
+               ReferencedContainer = "container:InnoRM_Fee.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "hapulico_appTests.xctest"
-               BlueprintName = "hapulico_appTests"
-               ReferencedContainer = "container:hapulico_app.xcodeproj">
+               BuildableName = "InnoRM_FeeTests.xctest"
+               BlueprintName = "InnoRM_FeeTests"
+               ReferencedContainer = "container:InnoRM_Fee.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "hapulico_appTests.xctest"
-               BlueprintName = "hapulico_appTests"
-               ReferencedContainer = "container:hapulico_app.xcodeproj">
+               BuildableName = "InnoRM_FeeTests.xctest"
+               BlueprintName = "InnoRM_FeeTests"
+               ReferencedContainer = "container:InnoRM_Fee.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "hapulico_app.app"
-            BlueprintName = "hapulico_app"
-            ReferencedContainer = "container:hapulico_app.xcodeproj">
+            BuildableName = "InnoRM_Fee.app"
+            BlueprintName = "InnoRM_Fee"
+            ReferencedContainer = "container:InnoRM_Fee.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "hapulico_app.app"
-            BlueprintName = "hapulico_app"
-            ReferencedContainer = "container:hapulico_app.xcodeproj">
+            BuildableName = "InnoRM_Fee.app"
+            BlueprintName = "InnoRM_Fee"
+            ReferencedContainer = "container:InnoRM_Fee.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "hapulico_app.app"
-            BlueprintName = "hapulico_app"
-            ReferencedContainer = "container:hapulico_app.xcodeproj">
+            BuildableName = "InnoRM_Fee.app"
+            BlueprintName = "InnoRM_Fee"
+            ReferencedContainer = "container:InnoRM_Fee.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -1,6 +1,6 @@
 {
-  "name": "hapulico_app",
-  "displayName": "hapulico_app",
+  "name": "InnoRM_Fee",
+  "displayName": "InnoRM_Fee",
   "orientation": "landscape",
   "primaryColor": "#cccccc",
   "icon": "./src/resources/assets/icon.png",

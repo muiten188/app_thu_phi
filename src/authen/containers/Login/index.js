@@ -239,14 +239,14 @@ class login extends Component {
                   <Grid>
                     <Col style={styles.col_footer}>
                       <Text style={[styles.text_footer, { textAlign: "left" }]}>
-                        Hotline: 0243 333 888
+                        Hotline: 037 722 989
                       </Text>
                     </Col>
                     <Col style={styles.col_footer}>
                       <Text
                         style={[styles.text_footer, { textAlign: "right" }]}
                       >
-                        www.hapulico.com
+                        www.saobacdau.vn
                       </Text>
                     </Col>
                   </Grid>

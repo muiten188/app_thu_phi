@@ -1,4 +1,4 @@
-rootProject.name = 'hapulico_app'
+rootProject.name = 'InnoRM_Fee'
 include ':react-native-xprinter'
 project(':react-native-xprinter').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-xprinter/android')
 include ':react-native-i18n'

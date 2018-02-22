@@ -1,4 +1,4 @@
-package com.hapulico_app;
+package com.InnoRM_Fee;
 
 import android.app.Application;
 
@@ -6,7 +6,7 @@ import com.facebook.react.ReactApplication;
 
 
 import com.AlexanderZaytsev.RNI18n.RNI18nPackage;
-import com.hapulico_app.BuildConfig;
+import com.InnoRM_Fee.BuildConfig;
 import com.mybigday.rmxprinter.RNXprinterPackage;
 import com.oblador.vectoricons.VectorIconsPackage;
 import com.facebook.react.ReactNativeHost;

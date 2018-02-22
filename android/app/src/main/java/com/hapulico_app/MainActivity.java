@@ -1,4 +1,4 @@
-package com.hapulico_app;
+package com.InnoRM_Fee;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "hapulico_app";
+        return "InnoRM_Fee";
     }
 }
