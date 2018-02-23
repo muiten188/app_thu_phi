@@ -95,10 +95,10 @@ export async function printBill(
           customerName = change_alias(customerName).toUpperCase();
           cashier = change_alias(cashier).toUpperCase();
 
-          RNXprinter.pushText("Cong Ty CP Dau Tu BDS HAPULICO", 0, 1, 46);
-          RNXprinter.pushText("Tang 23-24, Toa Center Building", 0, 1, 46);
+          RNXprinter.pushText("Cong Ty CP Cong Nghe Sao Bac Dau", 0, 1, 46);
+          RNXprinter.pushText("Tang 15, Toa Lilama10, To Huu", 0, 1, 46);
           RNXprinter.pushText(
-            "So 1, Nguyen Huy Tuong, P.Thanh Xuan Trung, Q.Thanh Xuan, Ha Noi\n",
+            "Trung Van, Q.Nam Tu Liem, Ha Noi\n",
             0,
             1,
             46
